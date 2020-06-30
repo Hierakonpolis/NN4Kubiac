@@ -15,4 +15,4 @@ Here we go over the entire process of training a convolutional neural network fo
 
 ## Aknowledgements
 
-The preparation of this tutorial has been supported by the European Social Fund project S21770 " Kuopio Biomedical Image Analysis Center (KUBIAC) - Enhancing the innovation potential by advancing the know-how on biomedical image analysis
+The preparation of this tutorials has been supported by the European Social Fund project S21770 " Kuopio Biomedical Image Analysis Center (KUBIAC) - Enhancing the innovation potential by advancing the know-how on biomedical image analysis
